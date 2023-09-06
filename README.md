@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BradKynndy
+- 👋 Hi, I’m @Brad Kynndy Camargo Tenório
 - 👀 I’m interested in Desenvolver Web
 - 🌱 I’m currently learning Desenvolvimento de Sistema
 - 💞️ I’m looking to collaborate on projetos grandes
